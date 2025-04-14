@@ -86,11 +86,11 @@ CREATE TABLE customer (
 
 -- inserting data in the customer-table
 INSERT INTO customer (first_name, last_name, email, phone) VALUES
-('Alice', 'Johnson', 'alice@example.com', '+254712345678'),
-('Bob', 'Smith', 'bob@example.com', '+254712345679'),
-('Carol', 'Williams', 'carol@example.com', '+254712345680'),
-('David', 'Brown', 'david@example.com', '+254712345681'),
-('Eve', 'Jones', 'eve@example.com', '+254712345682');
+('Alice', 'Johnson', 'alice@gmail.com', '+254712345678'),
+('Bob', 'Smith', 'bob@gmail.com', '+25472132435'),
+('Carol', 'Williams', 'carol@gmail.com', '+25471547290'),
+('David', 'Brown', 'david@gmail.com', '+25473578951'),
+('Eve', 'Jones', 'eve@gmail.com', '+25474729842');
 
 -- country 
 CREATE TABLE country (
